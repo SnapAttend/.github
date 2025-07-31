@@ -27,7 +27,7 @@ To access the app for testing/demo purposes, use the following credentials:
 
 ## 🖼️ Screenshots
 
-> Make sure to upload these images in a folder like `assets/screenshots/`.
+<!-- > Make sure to upload these images in a folder like `assets/screenshots/`. -->
 
 ### 🔐 Login Page
 ![Login](assets/screenshots/login_page.png)
